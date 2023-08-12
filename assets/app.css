@@ -1,0 +1,40 @@
+/* Canvas Manipulators */
+.body {
+    font-family: "Lato", sans-serif;
+    color: white;
+    background-color: #0d1117;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+footer {
+    margin-top: auto;
+}
+
+/* Typhography */
+.brand-title {
+    font-family: "Press Start 2P", cursive;
+}
+
+/* Tape Operation */
+.tape-canvas {
+    width: 100%;
+    padding: 0.5rem;
+    background-color: #262e39;
+}
+
+/* Dropdown */
+.dropdown-heading {
+    font-weight: bold !important;
+    font-size: smaller !important;
+    text-transform: uppercase !important;
+    pointer-events: none !important;
+}
+
+.dropdown-divider {
+    margin: 1rem 0;
+}
+
+.brand-logo {
+    cursor: pointer;
+}
